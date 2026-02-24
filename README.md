@@ -1,2 +1,2 @@
-# eNROLL-core-iOS-specs
-This repo is for internally developed identity verification iOS SDK specs
+# eNROLL-neo-core-specs
+This repo is for internally developed identity verification SDK iOS CocoaPods podspecs
